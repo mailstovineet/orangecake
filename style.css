@@ -1,0 +1,72 @@
+body{
+text-align:center;
+background-color:#ffc774;
+}
+h1{
+font-size:50px;
+color:blue;    
+}
+h4{
+font-size:18px;
+font-family: 'Dosis', sans-serif;    
+}
+img{
+ width:40%;   
+}
+#ingredients{
+    background-image:url("oranges.jfif");
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:500px;
+}
+p{
+    color:white;
+    font-size: 20px;
+}
+
+.nav_div{
+    font-size:20px;
+    color:red;
+    padding-top:20px;
+    border:2px dashed white;
+}
+.nav_1{
+    list-style:circle;
+    width:100%;
+    margin-top:0px;
+    cursor:pointer;
+    position:fixed;
+    top:0px;
+    
+}
+a{
+    color:red;
+}
+#a1{
+    font-size:30px;
+    color:darkslateblue;
+}
+
+.line{
+    height:10px;
+    background-color:black;
+    width:200px;
+    margin:50px auto;
+
+}
+
+
+.item:hover{
+    font-size:30px;
+}
+.nav_1{
+    position:sticky;
+    top:0px;
+}
+#d_i_v{
+  color:chartreuse;
+  background:white;
+}
+#video_title{
+    color:black;
+}
